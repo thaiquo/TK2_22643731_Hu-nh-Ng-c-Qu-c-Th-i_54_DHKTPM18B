@@ -8,6 +8,7 @@
 #wapper{
   width: 960px;
   margin:100px auto;
+  padding: 10px;
   border-width: 20px 50px;
   border-style: solid;
   border-image:url(../hinhanh/Image20240225155304.png) 20 repeat; 
